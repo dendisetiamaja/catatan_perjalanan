@@ -1,0 +1,9 @@
+
+||Bandung|38 Celcius|09:06|2022-02-23
+||Bandung|38 Celcius|09:06|2022-02-23
+||Bandung|38 Celcius|09:08|2022-02-23
+12345|Dendi|Bandung|38 Celcius|09:08|2022-02-23
+12345|Dendi|Bandung|38 Celcius|09:08|2022-02-23
+12345|Dendi|Bandung|38 Celcius|09:08|2022-02-23
+666|SATAN|Bandung|12 celcius|21:28|2022-02-23
+333|cimeng|jakarta|37 celcius|13:58|2022-03-02
